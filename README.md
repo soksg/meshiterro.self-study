@@ -1,5 +1,5 @@
 # README
-##　DMM WEBCAMP 学習コンテンツ　アプリケーションを完成させよう２の学習内容です
+##　DMM WEBCAMP 学習コンテンツ　アプリケーションを完成させよう２の１回目の復習です。
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
